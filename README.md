@@ -2,7 +2,7 @@
 
 Development setup for GraphQL Modules.
 
-This has support for typescript, with resolved type definition error when building the application for production.
+This has support for typescript, with resolved type definition. This usually was an error when building the application for production.
 
 Also, includes the 'reflect-metadata' fix, as discussed [TypeError: Reflect.hasMetadata is not a function](https://github.com/Urigo/graphql-modules/issues/183)
 
